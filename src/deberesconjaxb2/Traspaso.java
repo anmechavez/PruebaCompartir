@@ -41,6 +41,9 @@ public class Traspaso {
         M01 = new ModuloSJ();
         M02 = new ModuloSJ();
         M03 = new ModuloSJ();
+        
+        String variableDePruebaParaGIT = "";
+        
         alumnoMultiforma = new AlumnoSJ();
         
         //Ejecución
